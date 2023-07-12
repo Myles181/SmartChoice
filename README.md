@@ -1,1 +1,1 @@
-# SmartChoice
+# SmartChoice: shop for less
