@@ -39,8 +39,7 @@ app.post('/product', (req, res) => {
     const product = req.body;
 
     // use the fucntion to retrieve response
-    // Response is a dictionary of list
-    response = {}
+    // Response is a list of dictionaries
     const response = getProduct(product);
 
     return res.send(response);
