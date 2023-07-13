@@ -80,10 +80,10 @@ For now we only have access to the Iphones sector from both organizations but in
 
 ## Processing Data
 
-[alliexpress.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.js) -- This file contains the alliexpressProduct() function which extracts the data from [alliexpress.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json) via the text(product) inputted.
+[alliexpress.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.js) -- This file contains the alliexpressProduct() function which extracts the data from alliexpress.json via the text(product) inputted.
 
-[TokopediaApi.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/Tokopedia.js) -- This file contains the TokopediaProducts() function which extracts the data from [TokopediaApi.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json) via the text(product) inputted.
+[TokopediaApi.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/Tokopedia.js) -- This file contains the TokopediaProducts() function which extracts the data from TokopediaApi.json via the text(product) inputted.
 
-
+[base.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/base.js) -- This file contains the getProduct() function which takes both response from alliexpressProduct() and TokopediaProduct() and returns it. The getProduct() function will work directly with the routes.
 
 
