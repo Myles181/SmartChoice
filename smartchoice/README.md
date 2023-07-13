@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## API Data
 
-(alliexpress.json)[https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json] - This contains the data from the alliexpress Api
-(TokopediaApi.json)[https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json] -- This contains the data from the Tokopedia Api
+[alliexpress.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json) -- This contains the data from the alliexpress Api
+[TokopediaApi.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json) -- This contains the data from the Tokopedia Api
 For now we only have access to the Iphones sector from both organizations but in the later future more data will be added
 
