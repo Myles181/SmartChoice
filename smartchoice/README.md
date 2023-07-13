@@ -76,5 +76,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [alliexpress.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json) -- This contains the data from the alliexpress Api
 [TokopediaApi.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json) -- This contains the data from the Tokopedia Api
 
-For now we only have access to the Iphones sector from both organizations but in the later future more data will be added
+For now we only have access to the Iphones sector from both organizations but in the later future more data will be added.
+
+## Processing Data
+
+[alliexpress.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.js) -- This file contains the alliexpressProduct() function which extracts the data from [alliexpress.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json) via the text(product) inputted.
+
+[TokopediaApi.js](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/Tokopedia.js) -- This file contains the TokopediaProducts() function which extracts the data from [TokopediaApi.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json) via the text(product) inputted.
+
+
+
 
