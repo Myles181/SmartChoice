@@ -1,0 +1,99 @@
+.header {
+    display: block;
+    box-sizing: inherit;
+    width: 100%;
+    /* height: 72px; */
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.header__width {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    /* padding: 0px 140px 0px 140px; */
+}
+
+@media screen and (max-width: 1279px) {
+    .header__width {
+        /* padding: 0px 20px 0px 20px; */
+    }
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    /* flex-grow: 1; */
+    justify-content: space-between;
+}
+
+.header__logo > img {
+    height: 50px;
+    padding: 10px 15px;
+}
+
+
+
+.MuiButton-contained {
+    background-color: #f68700 !important;
+}
+
+.header__contentUp {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* flex-grow: 0.5; */
+}
+
+.header__input {
+    display: flex;
+    border: 1px solid #00000083;
+    flex-grow: 1;
+    padding: 5px 20px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.header__input > input {
+    width: 80%;
+    border: none;
+    outline-width: 0;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+}
+
+.header__menuList {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.header__help {
+    display: flex;
+    align-items: center;
+}
+
+.header__contact {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.header__contactUs {
+    padding-right: 10px;
+}

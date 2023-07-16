@@ -1,0 +1,29 @@
+.trending {
+    display: block;
+    width: 100%;
+    box-sizing: inherit;
+    background-color: #fff;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.trending__width {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+@media screen and (max-width: 1279px){
+    .trending__width {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.trending__content {
+    display: flex;
+    align-items: center;
+    margin-top: 23px;
+    margin-bottom: 32px;
+}

@@ -1,0 +1,120 @@
+.marketplaceCard {
+    max-width: 345px;
+    /* height: 345px; */
+    margin-right: 50px;
+    margin-bottom: 32px;
+}
+
+.marketplaceCard__name {
+    width: 160px;
+    /* height: 36px; */
+    background: #D58830;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 10px;
+}
+
+.marketplaceCard__name > h3 {
+    color: #FFF;
+    text-align: center;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 2px;
+}
+
+.marketplaceCard__product {
+    width: 379px;
+    /* height: 300px; */
+    background: white;
+    border-top: 1px solid rgba(253, 17, 130, 0.50);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 450ms;
+}
+
+.marketplaceCard__product:hover {
+    transform: scale(0.68);
+}
+
+.marketplaceCard__productName {
+    width: 263px;
+    /* height: 38px; */
+    flex-shrink: 0;
+    position: absolute;
+    margin-left: 105px;
+    padding: 5px;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.marketplaceCard__productName > h3 {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.marketplaceCard__productInfo {
+    width: 369px;
+    /* height: 140px; */
+    flex-shrink: 0;
+    border-radius: 15px;
+    border-bottom: 7px solid #FD1182;
+    border-left: 6px solid #FD1182;
+    background: #ECE3E6;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 150px;
+    margin-bottom: 5px;
+}
+
+.marketplaceCard__productInfo > p {
+    color: #020202;
+    /* text-align: justify; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    /* position: absolute; */
+    margin-top: 44px;
+    margin-left: 10px;
+}
+
+.marketplaceCard__productPrice {
+    width: 73px;
+    /* height: 73px; */
+    flex-shrink: 0;
+    /* fill: #FFF; */
+    margin-left: 279px;
+    display: flex;
+}
+
+.marketplaceCard__productPrice > h4 {
+    color: #FA1616;
+    text-align: center;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    position: absolute;
+    margin-top: 21px;
+    padding: 5px;
+}
+
+.marketplaceCard__productImage {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    align-self: flex-start;
+    padding: 40px 0px 0px 40px;
+    margin-left: 10px;
+}
+
+.marketplaceCard__productImage > img {
+    /* align-self: center; */
+    height: 198px;
+}

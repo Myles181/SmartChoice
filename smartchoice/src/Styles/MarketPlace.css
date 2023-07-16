@@ -1,0 +1,30 @@
+.marketplace {
+    display: block;
+    box-sizing: inherit;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.marketplace__width {
+    max-width: 1600px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0px 140px 0px 140px;
+}
+
+.marketplace__content {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+@media screen and (max-width: 1279px){
+    .marketplace__width {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
