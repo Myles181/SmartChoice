@@ -1,5 +1,5 @@
 import React from 'react'
-import "./TrendingCard.css"
+import "../Styles/TrendingCard.css"
 import { Typography } from '@mui/material'
 
 function TrendingCard() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import './CompareCard.css'
+import '../Styles/CompareCard.css'
 import { Typography } from '@mui/material';
 
 function CompareCard() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import './SectionHeader.css';
+import '../Styles/SectionHeader.css';
 import { Button } from '@mui/material';
 import ArrowCircleRightIcon from '@mui/icons-material/ArrowCircleRight';
 

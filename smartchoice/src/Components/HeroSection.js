@@ -1,6 +1,6 @@
 import React from 'react'
 import "../Styles/HeroSection.css"
-import CompareCard from '../CompareCard'
+import CompareCard from '../Components/CompareCard'
 
 function HeroSection() {
     return (

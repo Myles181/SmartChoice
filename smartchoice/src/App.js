@@ -1,9 +1,6 @@
 import './App.css';
 import Header from './Components/Header';
-import TrendingCard from './TrendingCard';
-import CompareCard from './CompareCard'
-import MarketPlaceCard from './Components/MarketPlaceCard';
-import SectionHeader from './SectionHeader';
+import SectionHeader from './Components/SectionHeader';
 import Footer from './Components/Footer.js';
 import MarketPlace from './Components/MarketPlace';
 import Trending from './Components/Trending';

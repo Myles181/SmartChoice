@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Styles/Trending.css'
-import TrendingCard from '../TrendingCard'
+import TrendingCard from '../Components/TrendingCard'
 
 
 function Trending() {
