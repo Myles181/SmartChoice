@@ -1,0 +1,74 @@
+.ResultCard {
+  width: 443px;
+  margin-bottom: 32px;
+  /* height: 322px; */
+  /* background-color: turquoise; */
+}
+
+.ResultCard__box {
+  max-width: 301px;
+  /* height: 321px; */
+  border-radius: 15px 0px;
+  border-bottom: 9px solid #2b3f41;
+  background: #fff;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  transition: transform 450ms;
+  margin-right: 8px;
+}
+
+.ResultCard__box:hover {
+  transform: scale(1.08);
+}
+
+.ResultCard__name {
+  width: 292px;
+  /* height: 143; */
+  flex-shrink: 0;
+  background: #fff;
+  border-top: 3px solid rgba(178, 254, 255, 0.5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-top: 169px;
+  margin-bottom: 10px;
+  margin-right: 151px;
+}
+
+.ResultCard__compare {
+  width: 135px;
+  height: 38px;
+  background: white;
+  background-color: orange;
+  color: #934127;
+  font-size: 16px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 180px;
+  /* margin-bottom: 284px; */
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  /* position: relative; */
+  /* z-index: 1; */
+}
+
+.ResultCard__compare > h5 {
+  font-size: 14px;
+  color: black;
+}
+
+.ResultCard__img {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  padding-top: 5px;
+  /* padding-bottom: 20px; */
+}
+
+.ResultCard__img > img {
+  height: 160px;
+}
+
+.ResultCard__text {
+  padding: 8px;
+}

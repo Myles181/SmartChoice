@@ -1,13 +1,13 @@
-.heroSection {
+.ResultheroSection {
   display: block;
   box-sizing: inherit;
   width: 100%;
-  background-color: #ffa5009e;
+  background-color: #d58830;
   margin-bottom: 25px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-.heroSection__width {
+.ResultheroSection__width {
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
@@ -15,7 +15,7 @@
   padding-right: 140px;
 }
 
-.heroSection__content {
+.ResultheroSection__content {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -23,12 +23,12 @@
   padding-top: 30px;
 }
 
-.heroSection__heroImg {
+.ResultheroSection__heroImg {
   border-right: 2px solid rgba(236, 227, 230, 0.4);
   border-bottom: 4px solid rgba(236, 227, 230, 0.4);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-.heroSection__heroImg > img {
+.ResultheroSection__heroImg > img {
   height: 506px;
 }
