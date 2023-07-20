@@ -1,12 +1,22 @@
 import React from 'react';
+import { useState } from 'react';
 import "../Styles/Header.css";
 import SearchIcon from '@mui/icons-material/Search';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import MenuIcon from '@mui/icons-material/Menu';
-import { Button, ButtonGroup, Divider, IconButton, MenuItem, Toolbar, Typography } from '@mui/material';
+import { Button, Divider, IconButton, MenuItem, Toolbar, Typography, ButtonGroup, } from '@mui/material';
 
 function Header() {
-    const menuOption = ['Home', 'Store', 'Trending', 'Blog'];
+    const menuOption = ['Home', 'MarketPlace', 'Trending-products', 'Newsletter'];
+    const [input, setInput] = useState(""); 
+
+    function handleSearch(e) {
+        e.preventDefault();
+        setInput("");
+
+        console.log({input});
+        //console.log({'message': searchData});
+    }
     return (
         <div className='header'>
             <div className='header__width'>
@@ -41,10 +51,10 @@ function Header() {
                         </div>
                         <div className='header__input'>
                             <SearchIcon />
-                            <input type='text' placeholder='Search products, brands and Categories' />
+                            <input type='text' id='searchInput' value={input} onChange={ e => setInput(e.target.value)} placeholder='Search products, brands and Categories' />
                         </div>
                         <div className='header__searchBtn'>
-                            <Button variant="contained" size="small">Search</Button>
+                            <Button variant="contained" size="small" onClick={handleSearch}>Search</Button>
                         </div>
                         <div className='header__help'>
                             <ButtonGroup size='medium' variant='text'>
@@ -64,6 +74,7 @@ function Header() {
             </div>
         </div>
     )
+    
 }
 
 export default Header
