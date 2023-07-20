@@ -13,7 +13,7 @@ function TrendingCard() {
                     <img src='Images\childhood-cute-pair-child-baby.jpg' alt='Baby Shoes' />
                 </div>
                 <div className='trendCard__name'>
-                    <Typography className='trendCard__text' variant='h6' color='text.primary'>
+                    <Typography className='trendCard__textHead' variant='h6' align='left' color='text.primary'>
                         iPhone
                     </Typography>
                     <Typography className='trendCard__text' variant='body2' color="text.secondary">

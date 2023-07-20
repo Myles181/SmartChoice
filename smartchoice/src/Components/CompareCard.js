@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Styles/CompareCard.css'
-import { Typography } from '@mui/material';
+import { Button, Typography } from '@mui/material';
 
 function CompareCard() {
   return (
@@ -10,19 +10,19 @@ function CompareCard() {
           <img alt='Red fashion women shoes and handbag' src='Images\Red-fashion-women-shoes-and-handbag-on-transparent-background-PNG.png' />
         </div>
         <div className='compareCard__wht'>
-          <div className='compareCard__btn'>
-            <h5>Compare Now</h5>
-          </div>
           <div className='compareCard__header'>
-            <Typography align='center' component='h1' variant='caption'>
+            <Typography className='compareCard__hd' align='center' component='h1' variant='caption'>
               Nike Sneakers
             </Typography>
           </div>
           <div className='compareCard__desc'>
-            <Typography align='center' variant='body2' color='text.secondary'>
+            <Typography className='compareCard__ava' align='center' variant='body2' color='text.secondary'>
               Available on Jumia, Konga, Amazon.
             </Typography>
           </div>
+          <Button size='small' className='compareCard__btn'>
+            Compare Now
+          </Button>
         </div>
       </div>
     </div>

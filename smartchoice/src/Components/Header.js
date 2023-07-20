@@ -3,10 +3,10 @@ import "../Styles/Header.css";
 import SearchIcon from '@mui/icons-material/Search';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import MenuIcon from '@mui/icons-material/Menu';
-import { Button, Divider, IconButton, MenuItem, Toolbar, Typography } from '@mui/material';
+import { Button, ButtonGroup, Divider, IconButton, MenuItem, Toolbar, Typography } from '@mui/material';
 
 function Header() {
-    const menuOption = ['Home', 'MarketPlace', 'Trending-products', 'Newsletter'];
+    const menuOption = ['Home', 'Store', 'Trending', 'Blog'];
     return (
         <div className='header'>
             <div className='header__width'>
@@ -21,17 +21,18 @@ function Header() {
                                 </div> */}
                                 <div className='header__menu'>
                                     <Toolbar>
-                                        <IconButton>
+                                        <Button size='medium' variant='text' startIcon={<MenuIcon />}> Categories</Button>
+                                        {/* <IconButton>
                                             <MenuIcon />
                                         </IconButton>
                                         <Typography>
                                             Categories
-                                        </Typography>
+                                        </Typography> */}
                                     </Toolbar>
                                         <Divider orientation='vertical' variant='middle' flexItem/>
                                     {menuOption.map((menu) => (
-                                        <MenuItem key={menu}>
-                                            <Typography textAlign='center'>{menu}</Typography>
+                                        <MenuItem key={menu} className='header__menuDesk'>
+                                            <Button className='menuBtn' size='medium' variant='text'>{menu}</Button>
                                         </MenuItem>
                                     ))}
                                 </div>
@@ -46,20 +47,17 @@ function Header() {
                             <Button variant="contained" size="small">Search</Button>
                         </div>
                         <div className='header__help'>
-                            <Toolbar>
-                                <IconButton>
-                                    <HelpOutlineIcon />
-                                </IconButton>
-                                <Typography>
+                            <ButtonGroup size='medium' variant='text'>
+                                <Button startIcon={<HelpOutlineIcon />}>
                                     Help
-                                </Typography>
+                                </Button>
                                 <div className='header__contact'>
-                                    <Typography className='header__contactUs'>Contact us</Typography>
-                                    <Typography>
+                                    <Button className='header__contactUs'>Contact us</Button>
+                                    <Button>
                                         About
-                                    </Typography>
+                                    </Button>
                                 </div>
-                            </Toolbar>
+                            </ButtonGroup>
                         </div>
                     </div>
                 </div>
