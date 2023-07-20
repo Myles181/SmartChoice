@@ -11,6 +11,14 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
+.sh {
+    /* display: block; */
+}
+
+.no {
+    /* display: none; */
+}
+
 @media screen and (min-width: 1023px) {
     .header{
         display: block;
@@ -43,7 +51,22 @@
     padding: 10px 15px;
 }
 
+.header__menuHd {
+    display: flex;
+    flex-direction: column;
+}
 
+.header__menuShow {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    top: 60px;
+    
+    bottom: 0;
+    background: white;
+    width: 300px;
+    z-index: 16;
+}
 
 .MuiButton-contained {
     background-color: #f68700 !important;

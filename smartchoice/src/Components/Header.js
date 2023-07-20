@@ -9,6 +9,27 @@ import { Button, Divider, IconButton, MenuItem, Toolbar, Typography, ButtonGroup
 function Header() {
     const menuOption = ['Home', 'MarketPlace', 'Trending-products', 'Newsletter'];
     const [input, setInput] = useState(""); 
+    const [show, setShow] = useState(false);
+    const [showMenu, setShowMenu] = useState(false);
+
+    const categories = [ 
+        'Supermaket',
+    'Health & Beauty',
+    'Home & Office',
+    'Appliances',
+    'Phones & Tablets',
+    'Computing',
+    'Electronics',
+    'Fashion',
+    'Baby Products',
+    'Gaming',
+    'Sports',
+    'Other Categories'
+]
+    const handleMenu = (e) => {
+        e.preventDefault();
+        {showMenu === false? setShowMenu(true) : setShowMenu(false)}
+    }
 
     function handleSearch(e) {
         e.preventDefault();
@@ -30,14 +51,13 @@ function Header() {
                                     <input type='text' />
                                 </div> */}
                                 <div className='header__menu'>
-                                    <Toolbar>
-                                        <Button size='medium' variant='text' startIcon={<MenuIcon />}> Categories</Button>
-                                        {/* <IconButton>
-                                            <MenuIcon />
-                                        </IconButton>
-                                        <Typography>
-                                            Categories
-                                        </Typography> */}
+                                    <Toolbar className='header__menuHd' >
+                                        <Button onClick={handleMenu} size='medium' variant='text' startIcon={<MenuIcon />}> Categories</Button>
+                                        <div className='header__menuShow'>
+                                            {categories.map((item, index) => (
+                                                <MenuItem key={index}>{item}</MenuItem>
+                                            ))}
+                                        </div>
                                     </Toolbar>
                                         <Divider orientation='vertical' variant='middle' flexItem/>
                                     {menuOption.map((menu) => (

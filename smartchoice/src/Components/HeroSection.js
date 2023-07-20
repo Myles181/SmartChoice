@@ -32,18 +32,20 @@ function HeroSection() {
         return null;
     }
 
-    setTimeout(nextSlide, 2000)
+    setTimeout(nextSlide, 8000)
     return (
         <div className='heroSection'>
             <div className='heroSection__width'>
                 <div className='heroSection__content'>
-                {slides.map((slide, index) => (
-                    <div className={index === current ? "heroSection__heroImg" : "notCurrent" } key={index}>
-                        {index === current && (
-                            <img src={slide.image} />
-                        )}
+                    <div className='heroSection__slider'>
+                        {slides.map((slide, index) => (
+                            <div className= { index === current ? "heroSection__heroImg" : "notCurrent" } key={index}>
+                                {index === current && (
+                                    <img src={slide.image} />
+                                )}
+                            </div>
+                        ))}
                     </div>
-                    ))}
                     <div className='heroSection__cards1'>
                         <CompareCard />
                         <CompareCard />
