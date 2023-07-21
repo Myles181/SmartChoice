@@ -1,44 +1,27 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "../src/App.css";
-import Home from "./Pages/Home";
-import Result from "./Pages/Result";
+
+import './App.css';
+import Header from './Components/Header';
+import SectionHeader from './Components/SectionHeader';
+import Footer from './Components/Footer.js';
+import MarketPlace from './Components/MarketPlace';
+import Trending from './Components/Trending';
+import HeroSection from './Components/HeroSection';
+import HeaderAlt from './Components/HeaderAlt';
 
 function App() {
   return (
-    <React.Fragment>
-      <BrowserRouter>
-        <Routes>
-          <Route
-            exact
-            path="/"
-            element={
-              <React.Suspense fallback={<div>Loading...</div>}>
-                <Home />
-              </React.Suspense>
-            }
-          />
+    <div className="app">
+      <Header />
+      <HeaderAlt />
+      <HeroSection />
+      <SectionHeader tittle="Marketplace" tittleBtn="Compare More" />
+      <MarketPlace />
+      <SectionHeader tittle="Trending-Products" tittleBtn="More Products" />
+      <Trending />
+      <Footer />
+      
+    </div>
 
-          <Route
-            eaxct
-            path="/result"
-            element={
-              <React.Suspense fallback={<div>Loading...</div>}>
-                <Result />
-              </React.Suspense>
-            }
-          />
-          <Route
-            path="*"
-            element={
-              <React.Suspense fallback={<div>Loading...</div>}>
-                <Home />
-              </React.Suspense>
-            }
-          />
-        </Routes>
-      </BrowserRouter>
-    </React.Fragment>
   );
 }
 

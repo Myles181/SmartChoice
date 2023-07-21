@@ -27,3 +27,14 @@
     margin-top: 23px;
     margin-bottom: 32px;
 }
+
+@media screen and (max-width: 600px) {
+    .trending__content {
+        overflow-y: hidden;
+        overflow-x: scroll;
+    }
+}
+
+.trending__content::-webkit-scrollbar { 
+    display: none;
+}

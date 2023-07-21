@@ -1,5 +1,5 @@
 .trendCard {
-    width: 443px;
+    max-width: 443px;
     margin-bottom: 32px;
     /* height: 322px; */
     /* background-color: turquoise; */
@@ -22,25 +22,25 @@
 }
 
 .trendCard__name {
-    width: 292px;
+    max-width: 292px;
     /* height: 143; */
     flex-shrink: 0;
     background:#fff;
     border-top: 3px solid rgba(178, 254, 255, 0.50);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    margin-top: 169px;
+    /* margin-top: 169px; */
     margin-bottom: 10px;
-    margin-right: 151px;
+    /* margin-right: 151px; */
 }
 
-.trendCard__compare{
-    width: 135px;
-    height: 38px;
+.trendCard__compare {
+    max-width: 135px;
+    /* height: 38px; */
     background: white;
     color: #934127;
     font-size: 16px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    margin-left: 180px;
+    /* margin-left: 180px; */
     /* margin-bottom: 284px; */
     display: flex;
     align-items: center;
@@ -49,12 +49,20 @@
     /* z-index: 1; */
 }
 
+@media screen and (min-width: 1355px) {
+    .trendCard__compare {
+        width: 136px;
+        margin-left: 180px;
+    }
+}
+
 .trendCard__compare > h5 {
     font-size: 14px;
+    padding: 10px;
 }
 
 .trendCard__img {
-    position: absolute;
+    /* position: absolute; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -64,9 +72,48 @@
 }
 
 .trendCard__img > img {
+    object-fit: contain;
     height: 160px;
 }
 
-.trendCard__text {
+.trendCard__textHead {
+    font-size: 14px !important;
     padding: 8px;
+}
+
+.trendCard__text {
+    padding: 0px 0px 8px 8px;
+}
+
+@media screen and (max-width: 1023px) {
+    .trendCard__img > img {
+        height: 120px;
+    }
+
+    .trendCard__textHead {
+    font-size: 12px !important;
+    }
+
+    .trendCard__text {
+    font-size: 0.8rem !important;
+    }
+
+    .trendCard__compare > h5 {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .trendCard__img > img {
+        height: 100px;
+        padding-bottom: 10px;
+    }
+
+    .trendCard__textHead {
+        font-size: 10px !important;
+    }
+
+    .trendCard__text {
+    font-size: 10px !important;
+    }
 }
