@@ -1,5 +1,4 @@
-import React from 'react';
-import { useState } from 'react';
+import React from "react";
 import "../Styles/Header.css";
 import SearchIcon from '@mui/icons-material/Search';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
@@ -90,11 +89,15 @@ function Header() {
                             </ButtonGroup>
                         </div>
                     </div>
+
                 </div>
+              </Toolbar>
             </div>
+          </div>
         </div>
-    )
-    
+      </div>
+    </div>
+  );
 }
 
-export default Header
+export default Header;

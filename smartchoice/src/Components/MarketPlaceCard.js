@@ -1,7 +1,8 @@
-import React from 'react'
-import styled from 'styled-components';
-import { Typography } from '@mui/material'
-// import '../Styles/MarketPlaceCard.css'
+import React from "react";
+import styled from "styled-components";
+import { Typography } from "@mui/material";
+import "../Styles/MarketPlaceCard.css";
+
 
 function MarketPlaceCard({ borderClr, borderTp, marketPlace, hdClr, bgClr, txClr }) {
     return (
@@ -28,12 +29,13 @@ function MarketPlaceCard({ borderClr, borderTp, marketPlace, hdClr, bgClr, txClr
             </CardContent>
         </Card>
     )
+
 }
 
-export default MarketPlaceCard
-
+export default MarketPlaceCard;
 
 const Card = styled.div`
+
     max-width: 345px;
     /* height: 345px; */
     margin-right: 50px;
@@ -173,3 +175,4 @@ const ProductName = styled(Typography)`
         font-size: 0.7rem !important;
     }
 `
+
