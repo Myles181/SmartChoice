@@ -56,9 +56,6 @@
 }
 
 @media screen and (max-width: 767px) {
-    /* .marketplace__btn {
-        margin-bottom: 15px;
-    } */
     .sectionBtn {
     font-size: 0.5rem !important;
     }

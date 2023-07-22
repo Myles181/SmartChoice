@@ -1,13 +1,11 @@
 .marketplaceCard {
     max-width: 345px;
-    /* height: 345px; */
     margin-right: 50px;
     margin-bottom: 32px;
 }
 
 .marketplaceCard__name {
     width: 160px;
-    /* height: 36px; */
     background: #D58830;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     margin-bottom: 10px;
@@ -25,7 +23,6 @@
 
 .marketplaceCard__product {
     width: 379px;
-    /* height: 300px; */
     background: white;
     border-top: 1px solid rgba(253, 17, 130, 0.50);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -41,7 +38,6 @@
 
 .marketplaceCard__productName {
     width: 263px;
-    /* height: 38px; */
     flex-shrink: 0;
     position: absolute;
     margin-left: 105px;
@@ -61,7 +57,6 @@
 
 .marketplaceCard__productInfo {
     width: 369px;
-    /* height: 140px; */
     flex-shrink: 0;
     border-radius: 15px;
     border-bottom: 7px solid #FD1182;
@@ -74,21 +69,17 @@
 
 .marketplaceCard__productInfo > p {
     color: #020202;
-    /* text-align: justify; */
     font-size: 16px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    /* position: absolute; */
     margin-top: 44px;
     margin-left: 10px;
 }
 
 .marketplaceCard__productPrice {
     width: 73px;
-    /* height: 73px; */
     flex-shrink: 0;
-    /* fill: #FFF; */
     margin-left: 279px;
     display: flex;
 }
@@ -115,6 +106,5 @@
 }
 
 .marketplaceCard__productImage > img {
-    /* align-self: center; */
     height: 198px;
 }

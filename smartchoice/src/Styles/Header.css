@@ -11,14 +11,6 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-.sh {
-    /* display: block; */
-}
-
-.no {
-    /* display: none; */
-}
-
 @media screen and (min-width: 1276px) {
     .header{
         display: block;
@@ -30,13 +22,6 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
-    /* padding: 0px 140px 0px 140px; */
-}
-
-@media screen and (max-width: 1279px) {
-    .header__width {
-        /* padding: 0px 20px 0px 20px; */
-    }
 }
 
 .header__logo {
@@ -49,11 +34,6 @@
 .header__logoImg {
     height: 50px;
     padding: 10px 15px;
-}
-
-.header__menuHd {
-    /* display: flex; */
-    /* flex-direction: column; */
 }
 
 .header__menuShow {
@@ -81,7 +61,6 @@
     
     to {
             transform: translate3d(0, 0, 0%);
-            /* opacity: 40; */
         }
 }
 
@@ -94,7 +73,6 @@
     
     to {
             transform: translate3d(0, 100%, 0);
-            /* opacity: 40; */
         }
 }
 

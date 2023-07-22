@@ -18,7 +18,7 @@ import DevicesOtherIcon from '@mui/icons-material/DevicesOther';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Button, Divider, IconButton, MenuItem, Toolbar, Typography, ButtonGroup, } from '@mui/material';
-import { Link, useParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
     // State Management variables
@@ -60,6 +60,7 @@ function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
         e.preventDefault();
         {showMenu === false? setShowMenu(true) : setShowMenu(false)}
     }
+  };
 
     // Close menu on click outside the menu box
     const onClickOutside = useCallback(
@@ -114,7 +115,6 @@ function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
                                         <MenuItem className='header__menuDesk'>
                                             <Button className='menuBtn' size='medium' variant='text'>Newsletter</Button>
                                         </MenuItem>
-                                    {/* // ))} */}
                                 </div>
                                 
                             </div>
@@ -140,11 +140,47 @@ function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
                             </ButtonGroup>
                         </div>
                     </div>
+                  </Toolbar>
+                  <Divider orientation="vertical" variant="middle" flexItem />
+                  {menuOption.map((menu) => (
+                    <MenuItem key={menu} className="header__menuDesk">
+                      <Button className="menuBtn" size="medium" variant="text">
+                        {menu}
+                      </Button>
+                    </MenuItem>
+                  ))}
                 </div>
+              </div>
             </div>
+            <div className="header__input">
+              <SearchIcon />
+              <input
+                type="text"
+                id="searchInput"
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                placeholder="Search products, brands and Categories"
+              />
+            </div>
+            <div className="header__searchBtn">
+              <Button variant="contained" size="small" onClick={handleSearch}>
+                Search
+              </Button>
+            </div>
+            <div className="header__help">
+              <ButtonGroup size="medium" variant="text">
+                <Button startIcon={<HelpOutlineIcon />}>Help</Button>
+                <div className="header__contact">
+                  <Button className="header__contactUs">Contact us</Button>
+                  <Button>About</Button>
+                </div>
+              </ButtonGroup>
+            </div>
+          </div>
         </div>
-    )
-    
+      </div>
+    </div>
+  );
 }
 
-export default Header
+export default Header;

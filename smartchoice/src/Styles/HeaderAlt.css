@@ -20,7 +20,6 @@
     max-width: 1600px;
     margin-left: auto;
     margin-right: auto;
-    /* padding-top: 10px; */
 }
 
 .headerAlt__content{
@@ -51,7 +50,6 @@
 .headerAlt__contentDown {
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
 }
 
 .headerAlt__menu {
@@ -86,7 +84,6 @@
     
     to {
             transform: translate3d(0, 0, 0%);
-            /* opacity: 40; */
         }
 }
 
