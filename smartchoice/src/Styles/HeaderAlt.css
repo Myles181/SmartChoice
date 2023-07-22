@@ -10,7 +10,7 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1276px) {
     .headerAlt{
         display: block;
     }
@@ -36,7 +36,7 @@
     justify-content: space-between;
 }
 
-.headerAlt__logo > img {
+.headerAlt__logoImg {
     object-fit: contain;
     height: 50px;
     padding: 5px 15px;
@@ -57,6 +57,80 @@
 .headerAlt__menu {
     display: flex;
     align-items: center;
+}
+
+.headerAlt__menuShow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    background-color: white;
+    z-index: 10;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    animation-name: rollin;
+    animation-duration: 2s;
+}
+
+.headerAlt__menuShow::-webkit-scrollbar {
+    display: none;
+}
+
+@keyframes rollin {
+    from {
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+        opacity: -2;
+    }
+    
+    to {
+            transform: translate3d(0, 0, 0%);
+            /* opacity: 40; */
+        }
+}
+
+.menuHideAlt {
+    display: none;
+}
+
+.headerAlt__MenuLogoCancel {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerAlt__MenuLogoImg {
+    object-fit: contain;
+    height: 50px;
+    padding: 5px 15px;
+}
+
+.headerAlt__liveHelp {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.headerAlt__menuOption {
+    display: flex !important;
+    align-items: center !important;
+    padding: 12px !important;
+    margin-bottom: 32px;
+}
+
+.headerAlt__menuCaption {
+    color: #fff;
+    max-width: fit-content;
+    background-color: #f68700;
+    padding-right: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.headerAlt__menuText {
+    padding-left: 10px;
 }
 
 .headerAlt__search {

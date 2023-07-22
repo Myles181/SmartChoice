@@ -19,7 +19,7 @@
     /* display: none; */
 }
 
-@media screen and (min-width: 1023px) {
+@media screen and (min-width: 1276px) {
     .header{
         display: block;
     }
@@ -46,26 +46,65 @@
     justify-content: space-between;
 }
 
-.header__logo > img {
+.header__logoImg {
     height: 50px;
     padding: 10px 15px;
 }
 
 .header__menuHd {
-    display: flex;
-    flex-direction: column;
+    /* display: flex; */
+    /* flex-direction: column; */
 }
 
 .header__menuShow {
     position: fixed;
-    display: flex;
-    flex-direction: column;
     top: 60px;
-    
-    bottom: 0;
     background: white;
     width: 300px;
     z-index: 16;
+    animation-name: rollin;
+    animation-duration: 2s;
+}
+
+.menuHide {
+    display: none;
+    animation-name: rollout;
+    animation-duration: 2s;
+}
+
+@keyframes rollin {
+    from {
+        transform: translate3d(0, -100%, 0);
+        visibility: visible;
+        opacity: -2;
+    }
+    
+    to {
+            transform: translate3d(0, 0, 0%);
+            /* opacity: 40; */
+        }
+}
+
+@keyframes rollout {
+    from {
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+        opacity: -2;
+    }
+    
+    to {
+            transform: translate3d(0, 100%, 0);
+            /* opacity: 40; */
+        }
+}
+
+.header__menuOption {
+    display: flex;
+    align-items: center;
+}
+
+.header__menuText {
+    padding-left: 10px;
 }
 
 .MuiButton-contained {
@@ -124,14 +163,14 @@
 }
 
 .header__contact {
-    display: flex;
+    display: none;
     align-items: center;
     padding-left: 10px;
 }
 
-@media screen and (max-width: 1320px) {
+@media screen and (min-width: 1353px) {
     .header__contact {
-        display: none;
+        display: flex;
     }
 }
 

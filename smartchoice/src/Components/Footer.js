@@ -1,4 +1,5 @@
 import React from 'react';
+import { forwardRef } from 'react'
 import '../Styles/Footer.css';
 import { Box, Button, TextField, IconButton } from '@mui/material';
 import CallIcon from '@mui/icons-material/Call';
@@ -9,9 +10,9 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import GoogleIcon from '@mui/icons-material/Google';
 
-function Footer() {
+const Footer = forwardRef(function(props, ref) {
     return (
-        <div className='footer'>
+        <div ref={ref} className='footer'>
             <div className='footer__width'>
                 <div className='footer__content'>
                     <div className='footer__contentUp'>
@@ -222,6 +223,6 @@ function Footer() {
             </div>
         </div>
         )
-}
+})
 
 export default Footer

@@ -3,27 +3,27 @@ import styled from 'styled-components';
 import { Typography } from '@mui/material'
 // import '../Styles/MarketPlaceCard.css'
 
-function MarketPlaceCard({ borderClr, borderTp, marketPlace, hdClr, bgClr, txClr }) {
+function MarketPlaceCard({ borderclr, bordertop, marketplace, headclr, bgclr, txtclr }) {
     return (
         <Card>
-            <Vendor hdClr={hdClr}>
-                <Header variant='h6' align='center'>{marketPlace}</Header>
+            <Vendor headclr={headclr}>
+                <Header variant='h6' align='center'>{marketplace}</Header>
             </Vendor>
-            <CardContent borderTp={borderTp}>
+            <CardContent bordertop={bordertop}>
                 <CardName>
                     <ProductName align='center' variant='h6'>Apple Bluetooth Headphone</ProductName>
                 </CardName>
                 <CardImg>
                     <img src='Images\favpng_iphone-7-plus-airpods-apple-earbuds-beats-electronics.png' alt='\favpng_iphone-7-plus-airpods-apple-earbuds-beats' />
                 </CardImg>
-                <CardInfo borderClr={borderClr} bgClr={bgClr}>
+                <CardInfo borderclr={borderclr} bgclr={bgclr}>
                     <CardPrice>
                         <svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73" fill="none">
     <circle cx="36.5" cy="36.5" r="36.5" fill="white"/>
                         </svg>
                         <Price variant='h6' align='center'>N170, 000</Price>
                     </CardPrice>
-                    <Stars txClr={txClr}>*****</Stars>
+                    <Stars txtclr={txtclr}>*****</Stars>
                 </CardInfo>
             </CardContent>
         </Card>
@@ -48,7 +48,7 @@ const Card = styled.div`
 const Vendor = styled.div`
     max-width: 160px;
     /* height: 36px; */
-    background: ${ props => props.hdClr || '#D58830' };
+    background: ${ props => props.headclr || '#D58830' };
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     margin-bottom: 10px;
 `
@@ -64,7 +64,7 @@ const CardContent = styled.div`
     max-width: 379px;
     /* height: 300px; */
     background: white;
-    border-top: 1px solid ${ props => props.borderTp || 'rgba(253, 17, 130, 0.50)' };
+    border-top: 1px solid ${ props => props.bordertop || 'rgba(253, 17, 130, 0.50)' };
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     border-radius: 15px;
     display: flex;
@@ -80,10 +80,10 @@ const CardInfo = styled.div`
     /* height: 140px; */
     flex-shrink: 0;
     border-radius: 15px;
-    border-bottom: 7px solid ${props => props.borderClr || '#FD1182'} ;
-    border-left: 6px solid ${props => props.borderClr || '#FD1182'} ;
+    border-bottom: 7px solid ${props => props.borderclr || '#FD1182'} ;
+    border-left: 6px solid ${props => props.borderclr || '#FD1182'} ;
     border-left-color: ;
-    background: ${props => props.bgClr ||'#ECE3E6'};
+    background: ${props => props.bgclr ||'#ECE3E6'};
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     margin-top: -32px;
     margin-bottom: 5px;
@@ -127,7 +127,7 @@ const Price = styled(Typography)`
 `
 
 const Stars = styled(Typography)`
-    color: ${props => props.txClr || '#020202' };
+    color: ${props => props.txtclr || '#020202' };
     margin-left: 10px !important;
     @media screen and (max-width: 767px) {
         font-size: 0.5rem !important;

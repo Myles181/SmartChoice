@@ -100,9 +100,9 @@
     animation-duration: 5s;
 }
 
-.heroSection__heroImg > img {
-    /* height: 382px; */
-    max-width: 653px;
+.heroSection__heroImgPic {
+    height: 382px;
+    /* max-width: 653px; */
 }
 
 @media screen and (max-width: 1023px) {
@@ -110,9 +110,12 @@
         align-self: flex-start;
         margin-top: 9px;
     }
+}
 
-    .heroSection__heroImg > img {
-        height: 323px;
+@media screen and (max-width: 899px) {
+    .heroSection__heroImgPic {
+        width: 100%;
+        height: auto;
     }
 }
 
@@ -121,19 +124,9 @@
         padding-right: 6px;
     }
 
-    .heroSection__heroImg > img {
-        height: 203px;
-    }
-
     .heroSection__cards1 {
         flex-direction: column;
         padding-top: 10px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .heroSection__heroImg > img {
-        height: 148px;
     }
 }
 

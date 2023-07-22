@@ -1,11 +1,12 @@
 import React from 'react'
+import { forwardRef } from 'react';
 import '../Styles/Trending.css'
 import TrendingCard from '../Components/TrendingCard'
 
 
-function Trending() {
+const Trending = forwardRef(function(props, ref){
     return (
-        <div className='trending'>
+        <div ref={ref} className='trending'>
             <div className='trending__width'>
                 <div className='trending__content'>
                     <TrendingCard />
@@ -16,6 +17,6 @@ function Trending() {
             </div>
         </div>
     )
-}
+})
 
 export default Trending
