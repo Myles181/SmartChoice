@@ -9,7 +9,6 @@ import Footer from './Footer';
 import Header from './Header';
 
 function HomePage() {
-    const [activeTab, setActiveTab] = useState("Home")
     const heroRef = useRef(null);
     const mrktRef = useRef(null);
     const trendRef = useRef(null);
