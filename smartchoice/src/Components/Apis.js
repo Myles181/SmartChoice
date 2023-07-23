@@ -56,6 +56,24 @@ const Apis = [
     category: "konga",
     ratings: "**",
   },
+
+  {
+    id: 7,
+    title: "I phone 14",
+    price: 1500,
+    image: "../image/phone.jpg",
+    category: "konga",
+    ratings: "**",
+  },
+
+  {
+    id: 8,
+    title: "I phone 14",
+    price: 1500,
+    image: "../image/phone.jpg",
+    category: "amazon",
+    ratings: "**",
+  },
 ];
 
 export default Apis;
