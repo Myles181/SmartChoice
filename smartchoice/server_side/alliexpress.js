@@ -43,7 +43,7 @@ function alliexpressProduct(text) {
           rating: Rating(),
           image: Image,
           category: 'alliexpress',
-          link: null
+          link: 'https://www.google.com'
         };
         count++;
       }
