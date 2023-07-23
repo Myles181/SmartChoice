@@ -1,48 +1,48 @@
-//Using express
-import { error } from "console";
 import express from "express";
+import { getProducts } from "../server_side/base.js";
+// import { alliexpressProduct } from "../server_side/alliexpress.js"
 import dotenv from "dotenv";
-// import { alliexpressProduct } from alliexpress;
-// import { TokopediaProducts } from Tokopedia;
+import cors from 'cors';
+import fs from 'fs';
 
-// Configure dotenv
+
 dotenv.config();
 
-// Use the environment variables
+const app = express();
 const host = process.env.HOST;
 const port = process.env.PORT;
 
-const app = express();
-app.use(express.json()); // To pass json encoded bodies
-app.use(express.urlencoded()); // Pass url encoded bodies
+app.use(cors());
+app.use(express.json()); // Add this middleware to handle JSON data
 
-// Error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).send("Internal Server Error");
+app.get("/", function (req, res) {
+  res.send("Hello World!");
 });
 
-// Hello world!
-app.get("/", (req, res) => {
-  res.send({ message: "Hello world!" });
+app.post('/product', function (req, res) {
+    if (req.method !== 'POST') {
+        throw new Error('Invalid request method');
+    }
+
+    // Assuming the request body is in the format {"request": [{"product": "Product 1"}, {"product": "Product 2"}, ...]}
+    const product = getProducts(req.body.searchInput);
+
+    const jsonData = JSON.stringify(product, null, 2);
+    
+    fs.writeFile('products.json', jsonData, (err) => {
+      if (err) {
+        console.error('Error writing to file:', err);
+      } else {
+        console.log('Data has been written to products.json');
+      }
+});
+    res.status(200).json({
+        'success': '200',
+        'msg': req.body.searchInput
+        }
+    )
 });
 
-// Takes in searched product
-app.post("/product", (req, res) => {
-  if (req.method !== "POST") {
-    throw new Error("Invalid request method");
-  }
-
-  // Product Search receives a dictionary format {"response": "{product}"}
-  const product = req.body;
-
-  // use the fucntion to retrieve response
-  // Response is a list of dictionaries
-  const response = getProduct(product);
-
-  return res.send(response);
-});
-
-app.listen(port, () => {
-  console.log(`Server is running on http://${host}:${port}`);
+app.listen(port, function () {
+  console.log(`Example app listening on port ${host}:${port}`);
 });

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Apple iPhone 13 Pro",
+    "price": "$1099.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone13pro.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max",
+    "price": "$999.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone12promax.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone SE (2022)",
+    "price": "$499.00",
+    "rating": 4.7,
+    "image": "https://example.com/iphonese2022.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 11",
+    "price": "$599.00",
+    "rating": 4.6,
+    "image": "https://example.com/iphone11.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 13 Mini",
+    "price": "$799.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone13mini.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone XR",
+    "price": "$499.00",
+    "rating": 4.7,
+    "image": "https://example.com/iphonexr.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max",
+    "price": "$1199.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone13promax.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 12 Mini",
+    "price": "$699.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone12mini.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 11 Pro",
+    "price": "$799.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone11pro.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": "$999.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone13.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": "$799.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone12.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 14",
+    "price": "$1199.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone14.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 12 Pro",
+    "price": "$899.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone12pro.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max",
+    "price": "$899.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone11promax.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone SE (2020)",
+    "price": "$399.00",
+    "rating": 4.6,
+    "image": "https://example.com/iphonese2020.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max",
+    "price": "$1099.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone12promax.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 13 Mini",
+    "price": "$799.00",
+    "rating": 4.8,
+    "image": "https://example.com/iphone13mini.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone XR",
+    "price": "$499.00",
+    "rating": 4.7,
+    "image": "https://example.com/iphonexr.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 11",
+    "price": "$599.00",
+    "rating": 4.6,
+    "image": "https://example.com/iphone11.jpg",
+    "category": "Electronics"
+  },
+  {
+    "name": "Apple iPhone 13 Pro",
+    "price": "$999.00",
+    "rating": 4.9,
+    "image": "https://example.com/iphone13pro.jpg",
+    "category": "Electronics"
+  }
+]

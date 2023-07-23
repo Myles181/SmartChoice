@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import util from 'util';
-const readFile = util.promisify(fs.readFile);
+//const readFile = util.promisify(fs.readFile);
 
 function TokopediaProducts(text) {
   if (!text) {
@@ -13,7 +13,10 @@ function TokopediaProducts(text) {
   let count = 0;
 
   // Retrieve data
-  const itemPath = path.join('/home/myles/nodeProject/app/TokopediaApi.json');
+  /* replace absPath with the absolute path of TokopediaApi.json on your device */
+  const absPath = '/root/SmartChoice/smartchoice/server_side/TokopediaApi.json'
+  const itemPath = path.join(absPath);
+
   if (fs.existsSync(itemPath)) {
     const data = JSON.parse(fs.readFileSync(itemPath, 'utf-8')).results;
 
@@ -34,6 +37,7 @@ function TokopediaProducts(text) {
         price: new_price_formatted,
         rating: rating,
         image: image,
+        category: 'Tokopedia',
         link: link
       };
 
@@ -45,8 +49,4 @@ function TokopediaProducts(text) {
 }
 }
 
-/**getTokopediaProducts('Iphone 13')
-  .then((productInfo) => console.log(productInfo))
-  .catch((error) => console.log(error));
-*/
 export { TokopediaProducts };
