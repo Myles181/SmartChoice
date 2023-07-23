@@ -1,0 +1,1334 @@
+[
+  {
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S5aac0adcd4ef448ab193a0f0deb8863cT.jpg",
+      "imgWidth": 1600,
+      "imgHeight": 1600,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "productId": "3256803705009551",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Unlocked Apple iPhone 12 Mini Genuine RAM 4GB ROM 64/128/256GB A14 IOS Face ID NFC 5G Cell Phone",
+      "shortTitle": false,
+      "seoTitle": "Unlocked Apple iPhone 12 Mini Genuine RAM 4GB ROM 64/128/256GB A14 IOS Face ID NFC 5G Cell Phone"
+    },
+    "evaluation": {
+      "starWidth": 48,
+      "starUrl": "https://ae01.alicdn.com/kf/S567d6bf538214abf95c1e5825c7e6a05t/48x48.png",
+      "starRating": 5,
+      "starHeight": 48
+    },
+    "lunchTime": "2022-02-11 00:00:00",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-0"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-0"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256803705009551%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000027400654134%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%22160%22%2C%22star%22%3A%225.0%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21405.0%21324.0%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000027400654134%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS5aac0adcd4ef448ab193a0f0deb8863cT.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $324.00",
+        "csp": "324.0,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.2983987629413605,
+        "sku_id": "12000027400654134",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "405.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005003891324303"
+      }
+    },
+    "trade": {
+      "tradeDesc": "160 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $324.00",
+        "minPriceDiscount": 20,
+        "cent": 32400,
+        "minPrice": 324,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000027400654134"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/Sf3240e016ae64e91a93659809096716ar.jpg",
+      "imgWidth": 750,
+      "imgHeight": 1000,
+      "imgType": "1"
+    },
+    "itemType": "productV3",
+    "productId": "3256804952932648",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Original Apple iPhone 5C 3G Mobile Phone 4.0 Display Dual Core CellPhone 8GB/16GB/32GB ROM WCDMA Used WIFI GPS IOS SmartPhone",
+      "shortTitle": false,
+      "seoTitle": "Original Apple iPhone 5C 3G Mobile Phone 4.0 Display Dual Core CellPhone 8GB/16GB/32GB ROM WCDMA Used WIFI GPS IOS SmartPhone"
+    },
+    "evaluation": {
+      "starWidth": 48,
+      "starUrl": "https://ae01.alicdn.com/kf/S567d6bf538214abf95c1e5825c7e6a05t/48x48.png",
+      "starRating": 4.8,
+      "starHeight": 48
+    },
+    "lunchTime": "2023-01-12 00:00:00",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-1"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-1"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256804952932648%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000031819050068%22%2C%22shipFrom%22%3A%22CN%22%2C%22order%22%3A%22100%22%2C%22star%22%3A%224.8%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%2181.68%2149.01%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000031819050068%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FSbd834803ccce4dc58401c1c7b8498a5bF.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $49.01",
+        "csp": "49.01,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.18336117267608643,
+        "sku_id": "12000031819050068",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "81.68,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005139247400"
+      }
+    },
+    "trade": {
+      "tradeDesc": "100 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $49.01",
+        "minPriceDiscount": 40,
+        "cent": 4901,
+        "minPrice": 49.01,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000031819050068"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S25655737047c45779882cc20aed28c877.jpg",
+      "imgWidth": 800,
+      "imgHeight": 800,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "productId": "3256805451612485",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "2023 Global Version I14 Pro Max Smartphone 16+1TB Full Screen Mobile Phone 6.7Inch Cellphone 50MP+108MP Camera 7800mAh Android13",
+      "shortTitle": false,
+      "seoTitle": "2023 Global Version I14 Pro Max Smartphone 16+1TB Full Screen Mobile Phone 6.7Inch Cellphone 50MP+108MP Camera 7800mAh Android13"
+    },
+    "p4p": {
+      "clickUrl": "//us-click.aliexpress.com/ci_bb?ot=hippo-033001228236.us44&a=334121488&e=Y3S.dDlb.8I4hhpsjoJz7CVbDoCxFuJM2YG8lEMdDmSu5745hTZLOP3PfETAmx.sYFBP8oSh4IYCnyv2sDe3ge-fdmD6PMLkpr.U0xzej2BJ3f03Z8E8er-gaIZ.0JmFUmuRgp-FwvASinX-ltWiIJ5xPuydUBSSNMwqcrRRZTa6qeVyJxTUwyAmLauh3ObNKHeEXv.cGHHQlBbaK3B9KOUk8C.6rjrsqj0dpfBEhn53uWN4ThzZ2PX3jpqwIvrGF80DDcWQqwh9-fUp9mJDxCbSGOhQ6KcUCSMha8MXw-ipsLNlGP83H659qIgSZ39sr0OqQTLQCa6Go3gvu5L8USxZMJK5TggP2Ii0WOE7HjWHVi3OfaghJJ6OLK9PzizwO7uru3G-DNglyVdLSIYb5jCeyiygzfg0-S-3c2B6uscnhmVek-iSHJbIabMLh2mP201RsMVcUkiHFYQrtDqNCqmgLlgXhzTRtB98R3xkBxq.oIi2H5yesbLS12C04j9uuB5hIqtCde-dXdHsD714.zhxhWQfObvVxPPEN6aXhcsKwAugnId0LnKfgZutNrJHSp90DhF34b-V0Amg0ze1RIq9lO3PNEitpqI2RRDFCmu1fbW4uDsREnBzFxkkrYaqS9TSPn3VaZGMfPgGLdQHn5TQq4m274hGjwBdUyN6FZT9APM6-lrv..hqPM6WJEe5dGAv4FltP.32-Alm3HsdHPHmVyAshaXMlNp20-qBWRlK4dkDOfUAlkAMs4W9fdim28ROEFXJfNH5m3hjCzEibgwEbNk8NrlwnVyKGvnmfeo0mr7xNBjaFMs45VxBb8td3YlDYco7827c1u6lyZvtPhu3PEmo6TPXTiQMuFgVoahMF4v4CGeuksxpmDFr3QmErbSGtCjMRq8bR3rF4t.YnDEgA8yJyEzrdbn9SgMH6jJrL7mN8yOdctAhgBAmOg4P1RaNBlzx8fasi1Ch2eOA1oyG5sSQgckVbv4-mI4ICxIeh7.FriQUfQTzsjppeyl0cZlPdR-loXGdx.Tz.8mZ4wpUEbcmyPdHd9MupxEIq9N7BLFCWdflSeMm8CSSHCa18okdThzQsnQGYoDqVn9yFVAfvvFBHFQdWsbT-5I1OXFzx7qahgtMJ4L-q-XBugCSjcEGMFbK6FUGDk.NmNC2AxVllE.-H3hnx1JX0Q4RL02j0L9SUF-ykA5skEmbyzsG&ap=1&rp=1",
+      "adTag": {
+        "tagStyle": {
+          "backgroundColor": "rgba(0,0,0,0.20)"
+        },
+        "displayTagType": "text",
+        "tagText": "AD"
+      },
+      "sessionId": "202306251239323260040789057850001884818"
+    },
+    "evaluation": {
+      "starWidth": 48,
+      "starUrl": "https://ae01.alicdn.com/kf/S567d6bf538214abf95c1e5825c7e6a05t/48x48.png",
+      "starRating": 4,
+      "starHeight": 48
+    },
+    "lunchTime": "2023-05-30 00:00:00",
+    "trace": {
+      "exposure": {
+        "session_id": "202306251239323260040789057850001884818",
+        "selling_point": "m0000064",
+        "aem_p4p_exposure": "1005005637927237",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-2"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "aem_p4p_detail": "202306251239323260040789057850001884818",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-2"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805451612485%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000033840533863%22%2C%22shipFrom%22%3A%22CN%22%2C%22order%22%3A%2210%22%2C%22star%22%3A%224.0%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21321.28%2164.26%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000033840533863%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS25655737047c45779882cc20aed28c877.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "aem_p4p_click": "1005005637927237",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $64.26",
+        "csp": "64.26,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "session_id": "202306251239323260040789057850001884818",
+        "sku_id": "12000033840533863",
+        "mixrank_success": "false",
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "321.28,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005637927237"
+      }
+    },
+    "trade": {
+      "tradeDesc": "10 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $64.26",
+        "minPriceDiscount": 80,
+        "cent": 6426,
+        "minPrice": 64.26,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000033840533863"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "ad"
+  },
+  {
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/HTB1r5aAc7fb_uJkSnfoq6z_epXaL.jpg",
+      "imgWidth": 800,
+      "imgHeight": 800,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "productId": "2251801822002760",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Used Original  Apple Iphone 4s Factory Unlock Phone Dual core  16GB/32GB/64GB 8MP Camera GPS 3.5'' TouchScreen",
+      "shortTitle": false,
+      "seoTitle": "Used Original  Apple Iphone 4s Factory Unlock Phone Dual core  16GB/32GB/64GB 8MP Camera GPS 3.5'' TouchScreen"
+    },
+    "evaluation": {
+      "starWidth": 48,
+      "starUrl": "https://ae01.alicdn.com/kf/S567d6bf538214abf95c1e5825c7e6a05t/48x48.png",
+      "starRating": 3.8,
+      "starHeight": 48
+    },
+    "lunchTime": "2014-07-31 00:00:00",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-3"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-3"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%222251801822002760%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2266496304601%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%22156%22%2C%22star%22%3A%223.8%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%2177.5%2141.07%21%21%21%21%21%40211bea0816877219726727938d07b9%2166496304601%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FHTB1r5aAc7fb_uJkSnfoq6z_epXaL.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $41.07",
+        "csp": "41.07,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.23397329449653625,
+        "sku_id": "66496304601",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "77.5,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "2008317512"
+      }
+    },
+    "trade": {
+      "tradeDesc": "156 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $41.07",
+        "minPriceDiscount": 47,
+        "cent": 4107,
+        "minPrice": 41.07,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "66496304601"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "lunchTime": "2023-06-21 00:00:00",
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S949043071dda45c78b8b32cf676bbf94M.png",
+      "imgWidth": 800,
+      "imgHeight": 800,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-4"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-4"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805557197661%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000034184532857%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%220%22%2C%22star%22%3A%22%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21567.0%21453.6%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000034184532857%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS949043071dda45c78b8b32cf676bbf94M.png"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $453.60",
+        "csp": "453.6,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.1689222753047943,
+        "sku_id": "12000034184532857",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "567.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005743512413"
+      }
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "productId": "3256805557197661",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "95% New Apple iPhone 11 Pro Max ProMax 6.5\" Genuine Super Retina XDR OLED Face ID A13 Bion ROM 64/256GB 4G Unlocked",
+      "shortTitle": false,
+      "seoTitle": "95% New Apple iPhone 11 Pro Max ProMax 6.5\" Genuine Super Retina XDR OLED Face ID A13 Bion ROM 64/256GB 4G Unlocked"
+    },
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $453.60",
+        "minPriceDiscount": 20,
+        "cent": 45360,
+        "minPrice": 453.6,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000034184532857"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "lunchTime": "2023-06-06 00:00:00",
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S8c39bbef51454fd5ae8e81423a9c862f8.png",
+      "imgWidth": 781,
+      "imgHeight": 830,
+      "imgType": "3"
+    },
+    "itemType": "productV3",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-5"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-5"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805486563133%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000033969118500%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%226%22%2C%22star%22%3A%22%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21441.0%21330.75%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000033969118500%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS8c39bbef51454fd5ae8e81423a9c862f8.png"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $330.75",
+        "csp": "330.75,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.16793081164360046,
+        "sku_id": "12000033969118500",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "441.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005672877885"
+      }
+    },
+    "trade": {
+      "tradeDesc": "6 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "productId": "3256805486563133",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Apple iPhone 11 64/128/256GB ROM 6.1\" Original Liquid Retina IPS LCD Face ID A13 IOS Genuine iPhone11 Unlocked 4G LTE",
+      "shortTitle": false,
+      "seoTitle": "Apple iPhone 11 64/128/256GB ROM 6.1\" Original Liquid Retina IPS LCD Face ID A13 IOS Genuine iPhone11 Unlocked 4G LTE"
+    },
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $330.75",
+        "minPriceDiscount": 25,
+        "cent": 33075,
+        "minPrice": 330.75,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000033969118500"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "lunchTime": "2023-04-19 00:00:00",
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S12481d6d334b4b0f8ab5436d655d1c56V.jpg",
+      "imgWidth": 1000,
+      "imgHeight": 1000,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-6"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-6"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805290149005%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000033238409714%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%224%22%2C%22star%22%3A%22%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21438.0%21219.0%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000033238409714%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS12481d6d334b4b0f8ab5436d655d1c56V.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $219.00",
+        "csp": "219.0,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.19383442401885986,
+        "sku_id": "12000033238409714",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "438.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005476463757"
+      }
+    },
+    "trade": {
+      "tradeDesc": "4 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "productId": "3256805290149005",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Unlocked Apple iPhone X Mobile Phone 5.8\" 3GB RAM 64GB/256GB ROM 4G LTE A11 iOS 12MP Face ID Used Cellphone",
+      "shortTitle": false,
+      "seoTitle": "Unlocked Apple iPhone X Mobile Phone 5.8\" 3GB RAM 64GB/256GB ROM 4G LTE A11 iOS 12MP Face ID Used Cellphone"
+    },
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $219.00",
+        "minPriceDiscount": 50,
+        "cent": 21900,
+        "minPrice": 219,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000033238409714"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "lunchTime": "2023-04-24 00:00:00",
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S07b841902af24da3886825d609aff405D.jpg",
+      "imgWidth": 1000,
+      "imgHeight": 1000,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-7"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-7"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805309684225%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000033306851506%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%221%22%2C%22star%22%3A%22%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21453.33%21340.0%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000033306851506%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS07b841902af24da3886825d609aff405D.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $340.00",
+        "csp": "340.0,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.14264142513275146,
+        "sku_id": "12000033306851506",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "453.33,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005495998977"
+      }
+    },
+    "trade": {
+      "tradeDesc": "1 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "productId": "3256805309684225",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Unlocked Apple iPhone 12 Mini CellPhone 5.4\" Genuine 4GB RAM 64/128/256GB ROM Hexa Core A14 IOS 12MP Face ID NFC 5G Mobile Phone",
+      "shortTitle": false,
+      "seoTitle": "Unlocked Apple iPhone 12 Mini CellPhone 5.4\" Genuine 4GB RAM 64/128/256GB ROM Hexa Core A14 IOS 12MP Face ID NFC 5G Mobile Phone"
+    },
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $340.00",
+        "minPriceDiscount": 25,
+        "cent": 34000,
+        "minPrice": 340,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000033306851506"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "lunchTime": "2023-06-05 00:00:00",
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/Hf8c781ad1fc54d8baa70f62cc67e2d8fu.jpg",
+      "imgWidth": 800,
+      "imgHeight": 1066,
+      "imgType": "3"
+    },
+    "itemType": "productV3",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-8"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-8"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256805484098783%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000033960372142%22%2C%22shipFrom%22%3A%22%22%2C%22order%22%3A%2219%22%2C%22star%22%3A%22%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21100.0%2180.0%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000033960372142%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FHf8c781ad1fc54d8baa70f62cc67e2d8fu.jpg"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $80.00",
+        "csp": "80.0,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.20385923981666565,
+        "sku_id": "12000033960372142",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "100.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005005670413535"
+      }
+    },
+    "trade": {
+      "tradeDesc": "19 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "productId": "3256805484098783",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "Original Unlocked Apple iPhone SE  4G LTE Smartphone  2GB RAM 16/64GB ROM Touch ID Mobile Phone",
+      "shortTitle": false,
+      "seoTitle": "Original Unlocked Apple iPhone SE  4G LTE Smartphone  2GB RAM 16/64GB ROM Touch ID Mobile Phone"
+    },
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $80.00",
+        "minPriceDiscount": 20,
+        "cent": 8000,
+        "minPrice": 80,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000033960372142"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+  {
+    "image": {
+      "imgUrl": "https://ae04.alicdn.com/kf/S44bcf03f148948c4b04257b0162f9d395.png",
+      "imgWidth": 800,
+      "imgHeight": 800,
+      "imgType": "11"
+    },
+    "itemType": "productV3",
+    "productId": "3256804273045464",
+    "itemCardType": "manhattan",
+    "title": {
+      "displayTitle": "95% New Original iPhone 13 Mini 5G 5.4\" 128GB 256GB ROM Super Retina XDR OLED Dual 12MP A15 Processor Face ID",
+      "shortTitle": false,
+      "seoTitle": "95% New Original iPhone 13 Mini 5G 5.4\" 128GB 256GB ROM Super Retina XDR OLED Dual 12MP A15 Processor Face ID"
+    },
+    "evaluation": {
+      "starWidth": 48,
+      "starUrl": "https://ae01.alicdn.com/kf/S567d6bf538214abf95c1e5825c7e6a05t/48x48.png",
+      "starRating": 4.9,
+      "starHeight": 48
+    },
+    "lunchTime": "2022-06-27 00:00:00",
+    "trace": {
+      "exposure": {
+        "selling_point": "m0000064",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-9"
+      },
+      "custom": {},
+      "detailPage": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "algo_exp_id": "5c276ab4-153c-4dde-829c-f594fdcb4e71-9"
+      },
+      "pdpParams": {
+        "pdp_cdi": "%7B%22traceId%22%3A%22211bea0816877219726727938d07b9%22%2C%22itemId%22%3A%223256804273045464%22%2C%22fromPage%22%3A%22search%22%2C%22skuId%22%3A%2212000031706350242%22%2C%22shipFrom%22%3A%22CN%22%2C%22order%22%3A%2267%22%2C%22star%22%3A%224.9%22%2C%22freeShip%22%3A%22true%22%7D",
+        "pdp_npi": "3%40dis%21USD%21638.0%21510.4%21%21%21%21%21%40211bea0816877219726727938d07b9%2112000031706350242%21sea%21US%210",
+        "channel": "direct",
+        "pdp_perf": "main_img=%2F%2Fae01.alicdn.com%2Fkf%2FS44bcf03f148948c4b04257b0162f9d395.png"
+      },
+      "click": {
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "haveSellingPoint": "true"
+      },
+      "utLogMap": {
+        "original_price_type": "offer",
+        "formattedPrice": "US $510.40",
+        "csp": "510.4,1",
+        "x_object_type": "productV3",
+        "algo_pvid": "5c276ab4-153c-4dde-829c-f594fdcb4e71",
+        "hit_19_forbidden": false,
+        "is_detail_next": "1",
+        "model_ctr": 0.2370469570159912,
+        "sku_id": "12000031706350242",
+        "mixrank_success": "false",
+        "custom_group": 1,
+        "sku_ic_tags": "[]",
+        "is_adult_certified": false,
+        "mixrank_enable": "false",
+        "ump_atmospheres": "none",
+        "oip": "638.0,0",
+        "selling_point": "m0000064",
+        "original_price_strategy": "default",
+        "x_object_id": "1005004459360216"
+      }
+    },
+    "trade": {
+      "tradeDesc": "67 sold"
+    },
+    "nativeCardType": "nt_srp_cell_g",
+    "prices": {
+      "builderType": "skuCoupon",
+      "taxRate": "0",
+      "pricesStyle": "default",
+      "salePrice": {
+        "formattedPrice": "US $510.40",
+        "minPriceDiscount": 20,
+        "cent": 51040,
+        "minPrice": 510.4,
+        "priceType": "sale_price",
+        "discount": -1,
+        "minPriceType": 2,
+        "currencyCode": "USD"
+      },
+      "prefix": "Sale price:",
+      "currencySymbol": "$",
+      "skuId": "12000031706350242"
+    },
+    "sellingPoints": [
+      {
+        "tagStyleType": "default",
+        "tagContent": {
+          "tagStyle": {
+            "color": "#009966",
+            "position": "4"
+          },
+          "displayTagType": "text",
+          "tagText": "Free shipping"
+        },
+        "resourceCode": "searchItemCard",
+        "resourcePriority": 205,
+        "source": "Free_Shipping_atm",
+        "sellingPointTagId": "m0000064"
+      }
+    ],
+    "productType": "natural"
+  },
+]
+  {
+  "query": "Iphone",
+  "results": [
+    {
+      "title": "Apple iPhone 14 Pro - Garansi Resmi iBox Apple Indonesia",
+      "link": "https://www.tokopedia.com/universestore/apple-iphone-14-pro-garansi-resmi-ibox-apple-indonesia-128gb-gold?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/universestore/apple-iphone-14-pro-garansi-resmi-ibox-apple-indonesia-128gb-gold",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/10/28/fb4ab49f-b19f-41e2-92ec-287afdf9c4fb.jpg",
+      "price": "Rp17.220.000",
+      "location": "Jakarta Utara",
+      "rating": 5,
+      "sold": 1237
+    },
+    {
+      "title": "Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB",
+      "link": "https://www.tokopedia.com/ismileofficial/apple-iphone-13-garansi-resmi-128gb-256gb-512gb-128-gb-midnight-black?extParam=cmp%3D1%26ivf%3Dtrue%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ismileofficial/apple-iphone-13-garansi-resmi-128gb-256gb-512gb-128-gb-midnight-black",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/2/15/ab8be3ca-5cf2-48ee-9f5a-0037f79a7df6.jpg",
+      "price": "Rp11.889.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.9,
+      "sold": 439
+    },
+    {
+      "title": "iPhone 13 Garansi Resmi -",
+      "link": "https://www.tokopedia.com/ptpratamasemesta/iphone-13-garansi-resmi-promo-128gb-green?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ptpratamasemesta/iphone-13-garansi-resmi-promo-128gb-green",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/12/27/5dbeaf8b-16df-4ca8-8e44-05f1f9cb78c1.jpg",
+      "price": "Rp11.775.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 3728
+    },
+    {
+      "title": "Iphone 11 128GB Garansi Resmi - TAM / Ibox",
+      "link": "https://www.tokopedia.com/ptpratamasemesta/iphone-11-128gb-garansi-resmi-tam-ibox-promo-64gb-white?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ptpratamasemesta/iphone-11-128gb-garansi-resmi-tam-ibox-promo-64gb-white",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/12/27/35d530fd-6821-472c-a50c-90c35da65428.jpg",
+      "price": "Rp6.890.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 9662
+    },
+    {
+      "title": "iPhone 14 Garansi Resmi -",
+      "link": "https://www.tokopedia.com/ptpratamasemesta/iphone-14-garansi-resmi-promo-128gb-red?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ptpratamasemesta/iphone-14-garansi-resmi-promo-128gb-red",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/3/9/2cc67a4b-0bd9-4ae8-a35b-1d1bdec850ec.png",
+      "price": "Rp13.315.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 457
+    },
+    {
+      "title": "Apple iPhone 14 Pro Max Garansi Resmi - 128GB 256GB 512GB 1TB Promax",
+      "link": "https://www.tokopedia.com/ismileofficial/apple-iphone-14-pro-max-garansi-resmi-128gb-256gb-512gb-1tb-promax-128gb-space-black?extParam=cmp%3D1%26ivf%3Dtrue%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ismileofficial/apple-iphone-14-pro-max-garansi-resmi-128gb-256gb-512gb-1tb-promax-128gb-space-black",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/2/15/5e89831a-e8a9-4f20-af9c-c701c347d1c3.jpg",
+      "price": "Rp19.019.000",
+      "location": "Jakarta Pusat",
+      "rating": 5,
+      "sold": 796
+    },
+    {
+      "title": "Apple iPhone 14 Garansi Resmi - 128GB 256GB 512GB",
+      "link": "https://www.tokopedia.com/ismileofficial/apple-iphone-14-garansi-resmi-128gb-256gb-512gb-128gb-starlight-white?extParam=cmp%3D1%26ivf%3Dtrue%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ismileofficial/apple-iphone-14-garansi-resmi-128gb-256gb-512gb-128gb-starlight-white",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/2/15/0c4eabda-32af-4afa-b5b4-5a1363c705c4.jpg",
+      "price": "Rp13.339.000",
+      "location": "Jakarta Pusat",
+      "rating": 5,
+      "sold": 552
+    },
+    {
+      "title": "Apple iPhone 14 Pro Max - Garansi Resmi iBox Apple Indonesia",
+      "link": "https://www.tokopedia.com/universestore/apple-iphone-14-pro-max-garansi-resmi-ibox-apple-indonesia-128gb-space-black?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/universestore/apple-iphone-14-pro-max-garansi-resmi-ibox-apple-indonesia-128gb-space-black",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/10/28/01f1ff68-5e22-4f65-b604-09aef82e7791.jpg",
+      "price": "Rp19.109.000",
+      "location": "Jakarta Utara",
+      "rating": 5,
+      "sold": 642
+    },
+    {
+      "title": "IPhone 12 Garansi Resmi Ibox - ",
+      "link": "https://www.tokopedia.com/ptpratamasemesta/iphone-12-garansi-resmi-ibox-promo-64gb-black?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ptpratamasemesta/iphone-12-garansi-resmi-ibox-promo-64gb-black",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/12/27/accf88ad-a0bb-4a80-90ec-3e78482c1c9e.png",
+      "price": "Rp10.289.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 1810
+    },
+    {
+      "title": "Apple iPhone 11 Garansi Resmi - 64GB 128GB",
+      "link": "https://www.tokopedia.com/ismileofficial/apple-iphone-11-garansi-resmi-64gb-128gb-64-gb-white?extParam=cmp%3D1%26ivf%3Dtrue%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ismileofficial/apple-iphone-11-garansi-resmi-64gb-128gb-64-gb-white",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/2/15/604646d4-81ed-42f2-adea-aa7f87a349a0.jpg",
+      "price": "Rp6.989.000",
+      "location": "Jakarta Pusat",
+      "rating": 5,
+      "sold": 844
+    },
+    {
+      "title": "Apple iPhone 12 - 128GB - Garansi Resmi iBox Apple Indonesia",
+      "link": "https://www.tokopedia.com/universestore/apple-iphone-12-128gb-garansi-resmi-ibox-apple-indonesia-merah?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/universestore/apple-iphone-12-128gb-garansi-resmi-ibox-apple-indonesia-merah",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/7/23/01f57665-9122-4d44-81e0-a7c828f4201f.jpg",
+      "price": "Rp11.107.000",
+      "location": "Jakarta Utara",
+      "rating": 5,
+      "sold": 896
+    },
+    {
+      "title": "iPhone 14 Promax - Garansi Resmi",
+      "link": "https://www.tokopedia.com/ptpratamasemesta/iphone-14-promax-garansi-resmi-promo-128gb-deep-purple?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/ptpratamasemesta/iphone-14-promax-garansi-resmi-promo-128gb-deep-purple",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/12/17/deb74364-7a7a-44a7-a5db-b0ca4332dd8e.png",
+      "price": "Rp19.110.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 598
+    },
+    {
+      "title": "Apple iPhone 11 IBOX - Dual Sim 64GB 128GB 256GB Black White Red Purple",
+      "link": "https://www.tokopedia.com/studioponsel/apple-iphone-11-ibox-dual-sim-64gb-128gb-256gb-black-white-red-purple-64-ibox-promo-black?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/studioponsel/apple-iphone-11-ibox-dual-sim-64gb-128gb-256gb-black-white-red-purple-64-ibox-promo-black",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/9/12/1858db91-d2a8-4abc-9566-b4a97d7dac24.jpg",
+      "price": "Rp6.959.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.9,
+      "sold": 852
+    },
+    {
+      "title": "Apple iPhone 11 - 128 GB - Garansi Resmi iBox Apple Indonesia",
+      "link": "https://www.tokopedia.com/universestore/apple-iphone-11-128-gb-garansi-resmi-ibox-apple-indonesia-fs-putih?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/universestore/apple-iphone-11-128-gb-garansi-resmi-ibox-apple-indonesia-fs-putih",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/7/2/cc27f36f-6edf-431f-852a-e570b8e58377.jpg",
+      "price": "Rp8.488.000",
+      "location": "Jakarta Utara",
+      "rating": 5,
+      "sold": 2585
+    },
+    {
+      "title": "IPHONE 11 PRO MAX - 256 GB / 64GB Original 100% second inter",
+      "link": "https://www.tokopedia.com/yunishop00/iphone-11-pro-max-256-gb-64gb-original-100-second-inter-64gb-silver?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/yunishop00/iphone-11-pro-max-256-gb-64gb-original-100-second-inter-64gb-silver",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/5/18/1d96aef0-e7b3-4576-a8ee-c387039ef518.png",
+      "price": "Rp6.831.000",
+      "location": "Jakarta Timur",
+      "rating": 4.9,
+      "sold": 552
+    },
+    {
+      "title": "Iphone 11 - 64GB second ori 100%/fullset Like new /mulus 99~100%",
+      "link": "https://www.tokopedia.com/yunishop00/iphone-11-64gb-second-ori-100-fullset-like-new-mulus-99-100-iphone-11-64gb-green?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/yunishop00/iphone-11-64gb-second-ori-100-fullset-like-new-mulus-99-100-iphone-11-64gb-green",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/5/20/65d4201f-e233-41a3-870c-5c4fc7c45b74.png",
+      "price": "Rp5.050.000",
+      "location": "Jakarta Timur",
+      "rating": 4.9,
+      "sold": 1659
+    },
+    {
+      "title": "Apple iPhone X - 64GB Second mulus ex internasional,fullset",
+      "link": "https://www.tokopedia.com/pembeliituraja/apple-iphone-x-64gb-second-mulus-ex-internasional-fullset-wifi-only?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/pembeliituraja/apple-iphone-x-64gb-second-mulus-ex-internasional-fullset-wifi-only",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/2/23/f54e98dc-6600-4e7a-976a-1f8e51dcf8ec.png",
+      "price": "Rp2.875.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.9,
+      "sold": 3047
+    },
+    {
+      "title": "iphone xs - 64gb second mulus ex internasional fullset",
+      "link": "https://www.tokopedia.com/phoneplusshop/iphone-xs-64gb-second-mulus-ex-internasional-fullset-wifi?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/phoneplusshop/iphone-xs-64gb-second-mulus-ex-internasional-fullset-wifi",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/4/1/3f8a141e-8a19-446b-9a14-a6f0ff514c53.jpg",
+      "price": "Rp3.100.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.8,
+      "sold": 1787
+    },
+    {
+      "title": "IPHONE 11 PRO MAX - 64/256 FULLSET SECOND ORIGINAL 100% MULUS - LIKE NEW",
+      "link": "https://www.tokopedia.com/astore168/iphone-11-pro-max-64-256-fullset-second-original-100-mulus-like-new-64gb-pro?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/astore168/iphone-11-pro-max-64-256-fullset-second-original-100-mulus-like-new-64gb-pro",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/5/31/acd68d56-efbb-4a90-b4c9-20d7fcd3a204.jpg",
+      "price": "Rp5.850.000",
+      "location": "Jakarta Utara",
+      "rating": 5,
+      "sold": 363
+    },
+    {
+      "title": "iPhone 11 - 128GB Nano+Esim Garansi Resmi 1 Tahun [ TAM ]",
+      "link": "https://www.tokopedia.com/36shop/iphone-11-128gb-nano-esim-garansi-resmi-1-tahun-tam-black-promo?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/36shop/iphone-11-128gb-nano-esim-garansi-resmi-1-tahun-tam-black-promo",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/9/20/0ff7be2d-dfa7-4115-acb5-40b1f0e6d0c8.jpg",
+      "price": "Rp8.265.000",
+      "location": "Jakarta Barat",
+      "rating": 5,
+      "sold": 334
+    },
+    {
+      "title": "Apple iPhone 11 - (Garansi Resmi Indonesia; Distributor TAM)",
+      "link": "https://www.tokopedia.com/iplug/apple-iphone-11-garansi-resmi-indonesia-distributor-tam-64gb-hitam?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/iplug/apple-iphone-11-garansi-resmi-indonesia-distributor-tam-64gb-hitam",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/6/18/91fbab0b-fd71-467d-af87-bcaff49cb74b.jpg",
+      "price": "Rp6.999.000",
+      "location": "Medan",
+      "rating": 5,
+      "sold": 70
+    },
+    {
+      "title": "Iphone 12 Pro - 128gb / 256gb /512gb Bekas Fullset",
+      "link": "https://www.tokopedia.com/lionelboy/iphone-12-pro-128gb-256gb-512gb-bekas-fullset-128gb-graphite?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/lionelboy/iphone-12-pro-128gb-256gb-512gb-bekas-fullset-128gb-graphite",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/2/6/e0fbf17f-8d1c-4a99-8b75-d69f5f7d7d93.jpg",
+      "price": "Rp8.750.000",
+      "location": "Jakarta Barat",
+      "rating": 4.9,
+      "sold": 977
+    },
+    {
+      "title": "Iphone 14 Pro - 128 Gb | 256 Gb | 512 Gb | 1 Tb Garansi Resmi IBOX",
+      "link": "https://www.tokopedia.com/senz88/iphone-14-pro-128-gb-256-gb-512-gb-1-tb-garansi-resmi-ibox-256-gb-deep-purple?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/senz88/iphone-14-pro-128-gb-256-gb-512-gb-1-tb-garansi-resmi-ibox-256-gb-deep-purple",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/12/16/95d44cd7-2fdc-4846-a8f5-8c06fc6335d1.jpg",
+      "price": "Rp20.060.000",
+      "location": "Jakarta Pusat",
+      "rating": 5,
+      "sold": 398
+    },
+    {
+      "title": "iphone Xr - 64gb second mulus ex garansi internasional fullset",
+      "link": "https://www.tokopedia.com/phoneplusshop/iphone-xr-64gb-second-mulus-ex-garansi-internasional-fullset-smarfren-wifi?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/phoneplusshop/iphone-xr-64gb-second-mulus-ex-garansi-internasional-fullset-smarfren-wifi",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/3/8/97f9263c-2ec9-4b59-b743-67afd4d27e8a.png",
+      "price": "Rp3.375.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.9,
+      "sold": 1676
+    },
+    {
+      "title": "IBOX| iPhone XR X - 256GB 256 128GB 128 64GB 64 Second Black White Blue",
+      "link": "https://www.tokopedia.com/macbin/ibox-iphone-xr-x-256gb-256-128gb-128-64gb-64-second-black-white-blue-x-64gb-face-id?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/macbin/ibox-iphone-xr-x-256gb-256-128gb-128-64gb-64-second-black-white-blue-x-64gb-face-id",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/8/24/f9932aa2-0b89-4485-8117-f8c99b185c9a.jpg",
+      "price": "Rp3.149.000",
+      "location": "Tangerang Selatan",
+      "rating": 4.8,
+      "sold": 413
+    },
+    {
+      "title": "Iphone 11 pro/promax - 256Gb second bekas exinter",
+      "link": "https://www.tokopedia.com/pikstore77/iphone-11-pro-promax-256gb-second-bekas-exinter-11pro-64?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/pikstore77/iphone-11-pro-promax-256gb-second-bekas-exinter-11pro-64",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/5/24/19316ca2-8ee3-4269-9095-d388f67c2227.jpg",
+      "price": "Rp5.850.000",
+      "location": "Jakarta Selatan",
+      "rating": 5,
+      "sold": 104
+    },
+    {
+      "title": "IPHONE XR - 64GB Second original mulus",
+      "link": "https://www.tokopedia.com/yunishop00/iphone-xr-64gb-second-original-mulus-biru-64gb?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/yunishop00/iphone-xr-64gb-second-original-mulus-biru-64gb",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/4/19/37c40112-faae-462d-9f56-faa2c98108cc.png",
+      "price": "Rp3.880.000",
+      "location": "Jakarta Timur",
+      "rating": 4.9,
+      "sold": 3335
+    },
+    {
+      "title": "iBox | iPhone 6 6s Plus - 128GB 64GB 32GB 16GB Second Original Resmi",
+      "link": "https://www.tokopedia.com/maxsense/ibox-iphone-6-6s-plus-128gb-64gb-32gb-16gb-second-original-resmi-iphone-6-nonfinger-16gb?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/maxsense/ibox-iphone-6-6s-plus-128gb-64gb-32gb-16gb-second-original-resmi-iphone-6-nonfinger-16gb",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2023/6/4/68f674ab-8b9c-4a45-abd6-edd060ee6065.jpg",
+      "price": "Rp1.215.000",
+      "location": "Tangerang Selatan",
+      "rating": 4.7,
+      "sold": 213
+    },
+    {
+      "title": "Apple iPhone 11 - 128GB 64GB Resmi iBox / TAM 128 64 NFC Garansi 1 Tahun",
+      "link": "https://www.tokopedia.com/newrizkyapple/apple-iphone-11-128gb-64gb-resmi-ibox-tam-128-64-nfc-garansi-1-tahun-64gb-second-white?extParam=ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/newrizkyapple/apple-iphone-11-128gb-64gb-resmi-ibox-tam-128-64-nfc-garansi-1-tahun-64gb-second-white",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/9/16/4e350ed8-2c4a-4ff4-a199-ae52e52ef1cf.jpg",
+      "price": "Rp4.924.000",
+      "location": "Jakarta Pusat",
+      "rating": 4.9,
+      "sold": 386
+    },
+    {
+      "title": "IPHONE 13 128GB GARANSI RESMI IBOX -",
+      "link": "https://www.tokopedia.com/q-storepedia/iphone-13-128gb-garansi-resmi-ibox-promo-midnight?extParam=cmp%3D1%26ivf%3Dfalse%26src%3Dsearch",
+      "slug": "/?act=detail&slug=/q-storepedia/iphone-13-128gb-garansi-resmi-ibox-promo-midnight",
+      "image": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/11/23/3d38e48d-8f3c-4597-b8ac-795c44c243cc.jpg",
+      "price": "Rp11.790.000",
+      "location": "Jakarta Pusat",
+      "rating": 5,
