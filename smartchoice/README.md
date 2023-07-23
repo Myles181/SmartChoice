@@ -68,3 +68,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Server Side
+
+This whole backend was built with Express and NodeJs
+To run any files just use node e.g node index.js because
+The backend server (index.js) will be ran in localhost
+
+## API Data
+
+[alliexpress.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/alliexpress.json) -- This contains the data from the alliexpress Api
+[TokopediaApi.json](https://github.com/Myles181/SmartChoice/blob/myles/smartchoice/server_side/TokopediaApi.json) -- This contains the data from the Tokopedia Api
+
+For now we only have access to the Iphones sector from both organizations but in the later future more data will be added.
+
+## Processing Data
+
+[alliexpress.js](https://github.com/Myles181/SmartChoice/blob/main/smartchoice/server_side/alliexpress.js) -- This file contains the alliexpressProduct() function which extracts the data from alliexpress.json via the text(product) inputted.
+
+[TokopediaApi.js](https://github.com/Myles181/SmartChoice/blob/main/smartchoice/server_side/Tokopedia.js) -- This file contains the TokopediaProducts() function which extracts the data from TokopediaApi.json via the text(product) inputted.
+
+[eAstroStore.js](https://github.com/Myles181/SmartChoice/blob/main/smartchoice/server_side/eAstroStore.js) -- This file contains the eAstroStoreProducts() function which extracts the data from eAstroStore.json via the text(product) inputted.
+
+[base.js](https://github.com/Myles181/SmartChoice/blob/main/smartchoice/server_side/base.js) -- This file contains the getProduct() function which takes both response from alliexpressProduct(), TokopediaProduct() and eAstroStoreProduct() and returns it. The getProduct() function will work directly with the routes.
+
+
+## Routes
+Routes are located in [index.js](https://github.com/Myles181/SmartChoice/blob/main/smartchoice/server_side/index.js) file
+
+(/) route -- This is just a page that displays "Hello World!"
+
+(/product) route -- 
+                    
+                    This is route takes in a post request
+                    It takes in the searched input and calls the getProduct on the searched item e.g(getProduct(searchInput))
+                    The searched input will be delivered by the frontend to the backend via post request
+                    It creates products.json file which the frontend will get their data from
+
