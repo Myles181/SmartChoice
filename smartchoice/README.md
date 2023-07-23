@@ -101,8 +101,7 @@ Routes are located in [index.js](https://github.com/Myles181/SmartChoice/blob/ma
 (/product) route -- 
                     
                     This is route takes in a post request
-                    
                     It takes in the searched input and calls the getProduct on the searched item e.g(getProduct(searchInput))
-                    
-                    the searched input will be delivered by the frontend to the backend via post request
+                    The searched input will be delivered by the frontend to the backend via post request
+                    It creates products.json file which the frontend will get their data from
 
