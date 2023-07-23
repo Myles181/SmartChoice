@@ -1,8 +1,6 @@
 import React from "react";
 import { useState, useRef } from "react";
-import HeroSection from "./HeroSection";
 import SectionHeader from "./SectionHeader";
-import MarketPlace from "./MarketPlace";
 import Trending from "./Trending";
 import HeaderAlt from "./HeaderAlt";
 import Footer from "./Footer";
@@ -47,9 +45,6 @@ function ResultPage() {
         findHelp={handleHelp}
       />
       <ResultHeroSection />
-      {/* <HeroSection ref={heroRef} /> */}
-      {/* <SectionHeader tittle="Marketplace" tittleBtn="Compare More" /> */}
-      {/* <MarketPlace ref={mrktRef} /> */}
       <SectionHeader tittle="Trending-Products" tittleBtn="More Products" />
       <Trending ref={trendRef} />
       <Footer ref={footRef} />

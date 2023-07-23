@@ -14,10 +14,7 @@ function App() {
           path="/result"
           element={
             <>
-              {/* <Header />
-              <HeaderAlt /> */}
               <ResultPage />
-              <Footer />
             </>
           }
         />
