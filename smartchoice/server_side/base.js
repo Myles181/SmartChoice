@@ -10,12 +10,12 @@ function getProducts(text) {
     const Tokopedia = TokopediaProducts(text); // Assuming TokopediaProducts returns an array of dictionaries representing products from Tokopedia
 
     // Add the dictionaries from alliexpress to the products array
-    for (let i = 0; i < alliexpress.length; ++i) {
+    for (let i = 0; i < Object.keys(alliexpress).length; ++i) {
         products.push(alliexpress[i]);
     }
 
     // Add the dictionaries from Tokopedia to the products array
-    for (let j = 0; j < Tokopedia.length; ++j) {
+    for (let j = 0; j < Object.keys(Tokopedia).length; ++j) {
         products.push(Tokopedia[j]);
     }
 
