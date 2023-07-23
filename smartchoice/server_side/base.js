@@ -1,6 +1,6 @@
 import { alliexpressProduct } from '../server_side/alliexpress.js';
 import { TokopediaProducts } from '../server_side/Tokopedia.js';
-import { eAstroStoreProduct } from '../server_side/eAstroStore';
+import { eAstroStoreProduct } from '../server_side/eAstroStore.js';
 
 
 function getProducts(text) {
