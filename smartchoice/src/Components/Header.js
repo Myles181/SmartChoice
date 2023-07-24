@@ -121,6 +121,13 @@ function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
     };
   }, [onClickOutside]);
 
+  function handleSearch(e) {
+    e.preventDefault();
+    setInput("");
+
+    console.log({ input });
+  }
+  //console.log({'message': searchData});
   return (
     <div className="header">
       <div className="header__width">
@@ -210,12 +217,14 @@ function Header({ gotoMarket, gotoTrend, gotoHero, findHelp }) {
               <input
                 type="text"
                 id="searchInput"
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
                 ref={activeTab}
                 placeholder="Search products, brands and Categories"
               />
             </div>
             <div className="header__searchBtn">
-              <Button variant="contained" size="small">
+              <Button variant="contained" size="small" onClick={handleSearch}>
                 Search
               </Button>
             </div>
