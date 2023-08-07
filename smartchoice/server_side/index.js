@@ -4,6 +4,7 @@ import { getProducts } from "../server_side/base.js";
 import dotenv from "dotenv";
 import cors from 'cors';
 import fs from 'fs';
+import {Apis} from '../src/Components/Apis.js';
 
 
 dotenv.config();
@@ -27,21 +28,18 @@ app.post('/product', function (req, res) {
     // Assuming the request body is in the format {"request": [{"product": "Product 1"}, {"product": "Product 2"}, ...]}
     const product = getProducts(req.body.searchInput);
 
-    const jsonData = JSON.stringify(product, null, 2);
-    
-    fs.writeFile('products.json', jsonData, (err) => {
-      if (err) {
-        console.error('Error writing to file:', err);
-      } else {
-        console.log('Data has been written to products.json');
-      }
-});
+    Apis = []
+    for (let i=0; i<product.length; i++){
+      Apis.push(product[i])
+    }
+    console.log(Apis);
+
     res.status(200).json({
-        'success': '200',
-        'msg': req.body.searchInput
-        }
-    )
+      'success': '200',
+      'msg': req.body.searchInput
+      });
 });
+
 
 app.listen(port, function () {
   console.log(`Example app listening on port ${host}:${port}`);
